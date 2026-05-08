@@ -291,6 +291,18 @@ See [docs/skill-anatomy.md](docs/skill-anatomy.md) for the format specification 
 
 ---
 
+## Translations
+
+Documentation is available in multiple languages:
+
+| Language | Link |
+|----------|------|
+| 中文（简体） | [i18n/zh-CN/README.md](i18n/zh-CN/README.md) |
+
+See [i18n/](i18n/) for all available translations.
+
+---
+
 ## License
 
 MIT - use these skills in your projects, teams, and tools.
